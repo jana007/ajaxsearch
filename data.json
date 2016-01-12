@@ -1,0 +1,262 @@
+[
+  {
+    "name":"bear",
+    "image":"bear",
+    "meta":"bear teddy teddybear teddy bear"
+  },
+  {
+    "name":"bird",
+    "image":"bird",
+    "meta":"bird birdie parrot pheasant birdy"
+  },
+  {
+    "name":"human boy",
+    "image":"boy",
+    "meta":"little boy child human male"
+  },
+  {
+    "name":"bug",
+    "image":"bug",
+    "meta":"insect bug spider ladybug creepy arachnid"
+  },  
+  {
+    "name":"penguin",
+    "image":"penguin",
+    "meta":"penguin bird"
+  },
+  {
+    "name":"shark",
+    "image":"shark",
+    "meta":"shark"
+  },
+  {
+    "name":"bunny",
+    "image":"bunny",
+    "meta":"baby bunny"
+  },
+  {
+    "name":"cat",
+    "image":"cat",
+    "meta":"cat"
+  },
+  {
+    "name":"human baby",
+    "image":"baby",
+    "meta":"infant child little kid human"
+  },
+  {
+    "name":"platypus",
+    "image":"platypus",
+    "meta":"platypus, platapus, plastipus"
+  },
+  {
+    "name":"rhino",
+    "image":"rhino",
+    "meta":"rhino horn"
+  },
+  {
+    "name":"duck",
+    "image":"duck",
+    "meta":"duck goose fowl waterfowl"
+  },
+  {
+    "name":"chicken",
+    "image":"chicken",
+    "meta":"chick chicken cock rooster"
+  },
+  {
+    "name":"snake",
+    "image":"snake",
+    "meta":"reptile snake"
+  },
+  {
+    "name":"cow",
+    "image":"cow",
+    "meta":"steer bull buffalo cow"
+  },
+  {
+    "name":"pig",
+    "image":"pig",
+    "meta":"piglet pig pork"
+  },
+  {
+    "name":"deer",
+    "image":"deer",
+    "meta":"antler deer do buck raindeer reindeer"
+  },
+  {
+    "name":"giraffe",
+    "image":"giraffe",
+    "meta":"geraffe giraffe"
+  },
+  {
+    "name":"bat",
+    "image":"bat",
+    "meta":"bat batman"
+  },
+  {
+    "name":"lizard",
+    "image":"lizard",
+    "meta":"lizard reptile"
+  },
+  {
+    "name":"gecko",
+    "image":"gecko",
+    "meta":"gecko amphibian lizard"
+  },
+  {
+    "name":"chimp",
+    "image":"chimp",
+    "meta":"ape monkey gorilla"
+  },
+  {
+    "name":"crab",
+    "image":"crab",
+    "meta":"crustacean krab krabby crabby"
+  },
+  {
+    "name":"dog",
+    "image":"dog",
+    "meta":"dog"
+  },
+  {
+    "name":"dolphin",
+    "image":"dolphin",
+    "meta":"porpoise dolphin"
+  },
+  {
+    "name":"elephant",
+    "image":"elephant",
+    "meta":"elephant"
+  },
+  {
+    "name":"frog",
+    "image":"frog",
+    "meta":"frog toad amphibian"
+  },
+  {
+    "name":"human girl",
+    "image":"girl",
+    "meta":"girl young human."
+  },
+  {
+    "name":"hamster",
+    "image":"hamster",
+    "meta":"hampster hamster"
+  },
+  {
+    "name":"kitty",
+    "image":"kitty",
+    "meta":"kitty cat kittycat kitty-cat kittie"
+  },
+  {
+    "name":"lion",
+    "image":"lion",
+    "meta":"lion baby cub"
+  },
+  {
+    "name":"Human man",
+    "image":"man",
+    "meta":"human man male"
+  },
+  {
+    "name":"manatee",
+    "image":"manatee",
+    "meta":"seacow manatee sea cow"
+  },
+  {
+    "name":"otter",
+    "image":"otter",
+    "meta":"seaotter otter sea otter"
+  },
+  {
+    "name":"ewok",
+    "image":"ewok",
+    "meta":"ewok, star wars"
+  },
+  {
+    "name":"wookiee",
+    "image":"wookiee",
+    "meta":"wookie wookiee chewbacca chewey star wars"
+  },
+  {
+    "name":"fish",
+    "image":"fish",
+    "meta":"fish ocean sea creature"
+  },
+  {
+    "name":"zebra",
+    "image":"zebra",
+    "meta":"zebra"
+  },
+  {
+    "name":"horse",
+    "image":"horse",
+    "meta":"horse stallion equine cob nag"
+  },
+  {
+    "name":"panda bear",
+    "image":"panda_bear",
+    "meta":"panda bear pandabear"
+  },
+  {
+    "name":"polar bear",
+    "image":"polar_bear",
+    "meta":"polar polarbear bear"
+  },
+  {
+    "name":"puppy",
+    "image":"puppy",
+    "meta":"pup puppydog puppy dog puppy-dog"
+  },
+  {
+    "name":"rabbit",
+    "image":"rabbit",
+    "meta":"wabbit rabbit bunnyrabbit bunny"
+  },
+  {
+    "name":"raccoon",
+    "image":"raccoon",
+    "meta":"trash panda trashpanda coon bandit"
+  },
+  {
+    "name":"rat",
+    "image":"rat",
+    "meta":"mouse rodent rat"
+  },
+  {
+    "name":"red panda bear",
+    "image":"red_panda_bear",
+    "meta":"red panda bear redpanda"
+  },
+    {
+    "name":"sea lion",
+    "image":"sea_lion",
+    "meta":"sea lion seel seal"
+  },
+  {
+    "name":"squirrel",
+    "image":"squirrel",
+    "meta":"squirrel"
+  },
+  {
+    "name":"tiger",
+    "image":"tiger",
+    "meta":"tiger cub"
+  },
+  {
+    "name":"whale",
+    "image":"whale",
+    "meta":"whale"
+  },
+  {
+    "name":"bear cat",
+    "image":"bearcat",
+    "meta":"bear cat"
+  },
+  {
+    "name":"human woman",
+    "image":"woman",
+    "meta":"woman human lady female"
+  }
+]

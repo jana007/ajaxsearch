@@ -1,0 +1,73 @@
+body {
+	padding-top: 25px;
+	background: #ffccff;
+	font-family: "Roboto", arial, sans-serif;
+}
+label {
+	font-size: 300%;
+	font-family: "lobster", cursive, sans-serif;
+	padding: 10px 10px 10px 10px;
+	background-color: #fff;
+	border-radius: 10px;
+}
+input {
+	border-radius: 10px;
+	font-size: 110%;
+}
+#searcharea {
+        margin: 0 auto;
+        text-align: center;
+	padding-bottom: 25px;
+}
+#update {
+	margin: 0 auto;
+	max-width: 500px;
+}
+#update ul h2 {
+	-webkit-animation: myAnim 1s;
+        -o-animation: myAnim 1s;
+        -moz-animation: myAnim 1s;
+        animation: myAnim 1s;
+}
+ul {
+	list-style-type: none;
+	text-transform: capitalize;
+}
+h2 {
+	margin-top: 15px;
+	margin-bottom: 15px;
+	background-color: #fff;
+        padding: 10px 10px 10px 10px;
+	border-radius: 10px;
+	max-width: 90px;
+	text-align: center;
+}
+img {
+	border-radius: 10px;
+        padding: 35px;
+	background-color: #fff;
+	width: 400px;
+        -webkit-animation: myAnim 1s;
+        -o-animation: myAnim 1s;
+        -moz-animation: myAnim 1s;
+        animation: myAnim 1s;
+
+}
+
+@-webkit-keyframes myAnim {
+	0% { opacity: 0.3;}
+	100% { opacity: 1.0;}
+}
+@-moz-keyframes myAnim {
+        0% { opacity: 0.3;}
+        100% { opacity: 1.0;}
+}
+@keyframes myAnim {
+        0% { opacity: 0.3;}
+        100% { opacity: 1.0;}
+}
+@-o-keyframes myAnim {
+        0% { opacity: 0.3;}
+        100% { opacity: 1.0;}
+}
+
